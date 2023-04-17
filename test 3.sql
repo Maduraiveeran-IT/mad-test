@@ -1,0 +1,1 @@
+select (1+1) a ,(1+2) b union select (3+1) a ,(4+2) b
